@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>filipiak.io</title>
+ <link href="http://filipiak.io/atom.xml" rel="self"/>
+ <link href="http://filipiak.io/"/>
+ <updated>2015-02-26T21:23:21+01:00</updated>
+ <id>http://filipiak.io</id>
+ <author>
+   <name>Maciej Filipiak</name>
+   <email></email>
+ </author>
+
+ 
+
+</feed>
